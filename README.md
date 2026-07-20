@@ -1,6 +1,6 @@
 # DATA6550-AlgorithmBias-Summer2026
 
-A group project examining how historical racial covenants in Hennepin and Ramsey Counties, Minnesota, are reflected in modern housing data (**data bias**) and in modern mortgage lending outcomes (**algorithmic bias**). See `final_report.md` for the full write-up.
+A group project examining how historical racial covenants in Hennepin and Ramsey Counties, Minnesota, are reflected in modern housing data (**data bias**) and in modern mortgage lending outcomes (**algorithmic bias**).
 
 ## Repository structure
 
