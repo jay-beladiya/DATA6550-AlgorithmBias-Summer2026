@@ -25,3 +25,10 @@ Analysis/
 
 - **Tirth Laheri**
 - **Jay Beladiya**
+
+## Final Report
+
+The complete project report can be viewed using the link below.
+
+**Google Docs Report**
+https://docs.google.com/document/d/1Gi2JA2BexB8sBb40uCDexJFrJBz7so3gqZX1AZlJ0JQ/edit?usp=sharing
