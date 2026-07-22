@@ -1,5 +1,9 @@
 # Discussion Summary – Part 1
 
+## Teammates
+- Tirth Laheri
+- Jay Beladiya
+
 ## Topic
 Planning the overall workflow and assigning responsibilities for the project.
 
